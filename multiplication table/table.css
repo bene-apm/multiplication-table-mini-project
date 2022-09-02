@@ -1,0 +1,37 @@
+.bb-text-lead {
+    background-color: #483D8B;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+#output {
+    background-color: #483D8B;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.bb-button {
+    font-size: 20px;
+    background-color: brown;
+    color: aliceblue;
+    border: aliceblue;
+    width: 200px;
+}
+
+#number-input {
+    height: 20px;
+}
+
+* {
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.main-box {
+    max-width: 700px;
+    margin: auto;
+}
+
+
+
